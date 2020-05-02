@@ -3,9 +3,9 @@ Maze is a 2-player cross-platform game designed using Cocos2D-x, where Player1 &
 
 ![maze-demo](demo/maze-demo.gif)
 
-[Installation](https://cocos2d-x.org/download)
+[Cocos2D-X Installation](https://cocos2d-x.org/download)
 
-[Documentation](https://docs.cocos2d-x.org/cocos2d-x/v4/en/)
+[Cocos2D-X V4 Documentation](https://docs.cocos2d-x.org/cocos2d-x/v4/en/)
 
 After installation and cocos project creation, the Classes file in the created project should be replaced by the Classes file given here. Similarly, the Resources file in the created project should also be replaced.
 
