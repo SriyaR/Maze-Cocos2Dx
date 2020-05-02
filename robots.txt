@@ -1,6 +1,3 @@
-# If you would like to crawl GitHub contact us at support@github.com.
-# We also provide an extensive API: https://developer.github.com/
-
 User-agent: CCBot
 Allow: /*/*/tree/master
 Allow: /*/*/blob/master
